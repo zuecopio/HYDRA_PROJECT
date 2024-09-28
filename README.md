@@ -1,7 +1,5 @@
 # Preparación de pedidos en un almacén (Proyecto de automatización robótica)
 
----
-
 ## Contexto del proyecto
 
 Segundo año de carrera y se nos plantea un nuevo reto en la asignatura de Proyecto RII 2: Desarrollo y Programación, el reto consiste, al igual que el curso pasado, en realizar una propuesta realista de automatización.
@@ -9,8 +7,6 @@ Segundo año de carrera y se nos plantea un nuevo reto en la asignatura de Proye
 <br>
 
 El proyecto planteado se sitúa en un almacén de dispositivos tecnológicos el cual quiere automatizar el proceso de realización de los pedidos de una determinada sección.
-
-<br>
 
 ## La propuesta
 
